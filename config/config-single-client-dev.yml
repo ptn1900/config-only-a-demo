@@ -2,4 +2,4 @@ data:
   env: localhost-dev-edit888
   user:
     username: ptn1900 
-    password: password-dev
+    password: ptn1900 
